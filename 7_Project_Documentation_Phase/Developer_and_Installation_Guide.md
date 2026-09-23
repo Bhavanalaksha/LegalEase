@@ -15,7 +15,7 @@
 
 #### Step 2.1: Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/LegalEase.git
+git clone https://github.com/Bhavanalaksha/LegalEase.git
 cd LegalEase
 ```
 

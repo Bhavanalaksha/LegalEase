@@ -37,7 +37,7 @@ Copy and fill this template when submitting to your faculty or portal:
 4. [Student 4 Name] - [Roll Number / Email] (QA & Documentation)
 
 **1. Public GitHub Repository Link:**
-https://github.com/<your-username>/LegalEase
+https://github.com/Bhavanalaksha/LegalEase
 
 **2. Public Google Drive Demo Video Link:**
 https://drive.google.com/file/d/<your-file-id>/view?usp=sharing

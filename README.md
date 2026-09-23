@@ -66,7 +66,7 @@ As instructed by **SmartBridge**, this repository is meticulously organized into
 
 ### 1. Clone & Setup
 ```bash
-git clone https://github.com/<your-username>/LegalEase.git
+git clone https://github.com/Bhavanalaksha/LegalEase.git
 cd LegalEase
 python -m venv venv
 venv\Scripts\activate      # Windows
